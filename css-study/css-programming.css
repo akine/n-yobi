@@ -1,0 +1,13 @@
+/* .face {
+  color: darkblue;
+} */
+.face {
+  color: red;
+}
+/* .back {
+  color: lightblue;
+} */
+.back {
+  color: red;
+  opacity: 0.4;
+}
